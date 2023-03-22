@@ -1,0 +1,4 @@
+(cinaps
+  (files boolector.ml)
+  (libraries core)
+  )
